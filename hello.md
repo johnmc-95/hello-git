@@ -4300,4 +4300,4 @@ Esto es una prueba en local
 - danicblanco
 - MillanZ32
 - JeanPaulLopez
-- johnmc-95
+- Johnmc-95
